@@ -1,4 +1,4 @@
-### 👋
+### Takeshi Kita Terrile 👋
 + Full Stack Java Developer
 
 + Dominio de Inglés a nivel avanzado. Experiencia en multinacionales.
