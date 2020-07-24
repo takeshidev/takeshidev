@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👋
++ Full Stack Java Developer
 
++ Dominio de Inglés a nivel avanzado. Experiencia en multinacionales.
+
++ Psicólogo, con mención Organizacional de la Universidad Central, diplomado en Negocios y Estrategia de la Universidad Adolfo Ibáñez, con 10 años de experiencia en RR.HH. y desarrollo de equipos multiculturales.
 <!--
 **takeshidev/takeshidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
